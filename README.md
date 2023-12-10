@@ -29,7 +29,7 @@
          $ sudo apt-get install python3
          $ sudo apt-get install python3-flask -y
          $ sudo apt-get install python3-pymysql
-         $ sudo apt-get install python3-boto3
+         $ sudo apt-get install python3-boto3 -y
      
 -------->For running application
 
